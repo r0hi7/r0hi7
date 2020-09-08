@@ -8,7 +8,6 @@ A small town boy and a Security Engineer by passion.
 
 A proud Author, Engineer, Maintainer, and Architect of extremely reliable and privacy friendly hosted disposable email service [TrashEmail](https://telegram.me/trashemail_bot) - [Repo Link](github.com/r0hi7/trashemail/).
 Authored a book and delivered various security sessions at International conferences. Inventor of 2 Patents and 1 Trade-secret. An active open source contributor.
-Drop by his [GitHub](https://github.com/r0hi7/) too, there are really cool and awesome stuff, and you will love it.
 
 
 An adventure freak, who loves to travel and call himself a philanthropist, a coder and ctf-player in his free time. Involved in active research in and around security.
