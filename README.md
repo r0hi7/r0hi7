@@ -15,7 +15,9 @@ An adventure freak, who loves to travel and call himself a philanthropist, a cod
 Read more at @ https://rsehgal.in
 
 - 🔭 I’m currently working on - [DockerENT](github.com/r0hi7/DockerENT)
-- 📫 How to reach me: [DM me on Twitter](https://twitter.com/sehgal_rohit)
+- Soon I will be working on - [DoT-Proxy](github.com/r0hi7/DoT-Proxy)
+- One of my most appreciated repo - [BinExp](github.com/r0hi7/binexp)
+- 📫 How to reach me: [DM me on Twitter](https://twitter.com/sehgal_rohit), I love to connect with smart heads.
 
 [![r0hi7's Github Stats](https://github-readme-stats.vercel.app/api?username=r0hi7&show_icons=true&count_private=true)]()
 
