@@ -15,7 +15,7 @@ An adventure freak, who loves to travel and call himself a philanthropist, a cod
 Read more at @ https://rsehgal.in
 
 - 🔭 I’m currently working on - [DockerENT](https://github.com/r0hi7/DockerENT)
-- Learning Kubernetes in a easy way : [K8s-in-30Mins](https://github.com/r0hi7/k8s-in-30Mins)
+- Want to learn Kubernetes in a easy way : [K8s-in-30Mins](https://github.com/r0hi7/k8s-in-30Mins)
 - Soon I will be working on - [DoT-Proxy](https://github.com/r0hi7/DoT-Proxy)
 - One of my most appreciated repo - [BinExp](https://github.com/r0hi7/binexp)
 - 📫 How to reach me: [DM me on Twitter](https://twitter.com/sehgal_rohit), I love to connect with smart heads.
